@@ -58,7 +58,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
 
 its a very complex and strong mafia bot that has potential to
 do everything by itself i hope you enjoy:)
